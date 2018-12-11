@@ -1,0 +1,7 @@
+{
+  "name": "Amigo Construtor",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
